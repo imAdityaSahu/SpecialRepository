@@ -40,4 +40,4 @@ ____________________
 
 📣 Stay Connected:
 📧 Reach out to me at [aditya.webartist@gmail.com] for inquiries, collaborations, or just to say hi!
-🐦 Follow me on Twitter for updates, tips, and insights on front-end development.
+🐦 Follow me on Twitter and LinkedIn for updates, tips, and insights on front-end development.
