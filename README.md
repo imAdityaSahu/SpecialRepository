@@ -11,33 +11,33 @@ ____________________
 
 ____________________
 
-🔧 Technologies Used:
-✅ HTML5
-✅ CSS3 (SASS/SCSS)
-✅ JavaScript (ES6+)
-✅ jQuery
-✅ Bootstrap
-✅ Tailwind CSS
-✅ GSAP Animations
-✅ Photoshop/Figma (Web Design)
+🔧 Technologies Used: <br>
+✅ HTML5 <br>
+✅ CSS3 (SASS/SCSS) <br>
+✅ JavaScript (ES6+) <br>
+✅ jQuery <br>
+✅ Bootstrap <br>
+✅ Tailwind CSS <br>
+✅ GSAP Animations <br>
+✅ Photoshop/Figma (Web Design) <br>
 ____________________
 
-👩‍💻 My Skills:
-🎨 Responsive Design: Optimized for various screen sizes and devices.
-🌈 Custom Animations: Smooth and interactive animations to enhance user experience.
-📚 Documentation: Detailed documentation and Nicely structured folders.
+👩‍💻 My Skills: <br>
+🎨 Responsive Design: Optimized for various screen sizes and devices. <br>
+🌈 Custom Animations: Smooth and interactive animations to enhance user experience. <br>
+📚 Documentation: Detailed documentation and Nicely structured folders. <br>
 
 ____________________________________________________________________________________________________
 ____________________________________________________________________________________________________
 
 
-📝 Get Involved:
-🌟 Star this repository if you find it useful or interesting!
-🐛 Report bugs, request features, or contribute to the project by following our Contributing Guidelines.
-💬 Join the discussion and share your thoughts, ideas, and feedback in the Discussions section.
+📝 Get Involved: <br>
+🌟 Star this repository if you find it useful or interesting! <br>
+🐛 Report bugs, request features, or contribute to the project by following our Contributing Guidelines. <br>
+💬 Join the discussion and share your thoughts, ideas, and feedback in the Discussions section. <br>
 
 ____________________
 
-📣 Stay Connected:
-📧 Reach out to me at [aditya.webartist@gmail.com] for inquiries, collaborations, or just to say hi!
+📣 Stay Connected: <br>
+📧 Reach out to me at [aditya.webartist@gmail.com] for inquiries, collaborations, or just to say hi! <br>
 🐦 Follow me on Twitter and LinkedIn for updates, tips, and insights on front-end development.
