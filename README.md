@@ -25,13 +25,13 @@ ____________________
 👩‍💻 My Skills: <br>
 🎨 Responsive Design: Optimized for various screen sizes and devices. <br>
 🌈 Custom Animations: Smooth and interactive animations to enhance user experience. <br>
-📚 Documentation: Detailed documentation and Nicely structured folders. <br>
+📚 Documentation: Detailed documentation and Nicely structured folders. <br>  <br>
 
 ____________________________________________________________________________________________________
 ____________________________________________________________________________________________________
 
 
-📝 Get Involved: <br>
+📝 Get Involved: <br> <br>
 🌟 Star this repository if you find it useful or interesting! <br>
 🐛 Report bugs, request features, or contribute to the project by following our Contributing Guidelines. <br>
 💬 Join the discussion and share your thoughts, ideas, and feedback in the Discussions section. <br>
