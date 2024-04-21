@@ -4,10 +4,10 @@ Hi there! I'm [Aditya Sahu], a passionate Web Designer & Front-end developer wit
 
 ____________________
 
-🚀 Key Features:
-✔️ Pixel Perfect Conversions
-✔️ W3C Validate Markup Code
-✔️ Well-Commented & Indented
+🚀 Key Features: <br>
+✔️ Pixel Perfect Conversions <br>
+✔️ W3C Validate Markup Code <br>
+✔️ Well-Commented & Indented <br>
 
 ____________________
 
