@@ -2,12 +2,16 @@
 
 Hi there! I'm [Aditya Sahu], a passionate UX/UI Designer & Front-end developer with a knack for creating intuitive and user-friendly web experiences. With a strong background in HTML, CSS, JavaScript, and various front-end frameworks, I specialize in turning design concepts into interactive and responsive websites.
 
+✅ MVP Designer
+✅ Website Redesign Expert
+
 ____________________
 
 🚀 Key Features: <br>
 ✔️ Pixel Perfect Conversions <br>
 ✔️ W3C Validate Markup Code <br>
 ✔️ Well-Commented & Indented <br>
+✔️ Responsive Designs & Liquid Responsive HTML <br>
 
 ____________________
 
@@ -19,7 +23,7 @@ ____________________
 ✅ Bootstrap <br>
 ✅ Tailwind CSS <br>
 ✅ GSAP Animations <br>
-✅ Photoshop/Figma (Web Design) <br>
+✅ Photoshop/Figma <br>
 ____________________
 
 👩‍💻 My Skills: <br>
