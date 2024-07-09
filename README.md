@@ -2,7 +2,7 @@
 
 Hi there! I'm [Aditya Sahu], a passionate UX/UI Designer & Front-end developer with a knack for creating intuitive and user-friendly web experiences. With a strong background in HTML, CSS, JavaScript, and various front-end frameworks, I specialize in turning design concepts into interactive and responsive websites.
 
-✅ MVP Designer
+✅ MVP Designer <br>
 ✅ Website Redesign Expert
 
 ____________________
